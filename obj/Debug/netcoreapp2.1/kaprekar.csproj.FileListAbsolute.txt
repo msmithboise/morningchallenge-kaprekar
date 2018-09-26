@@ -1,0 +1,11 @@
+/Users/msmith/source/codeworks/kaprekar/obj/Debug/netcoreapp2.1/kaprekar.csprojAssemblyReference.cache
+/Users/msmith/source/codeworks/kaprekar/obj/Debug/netcoreapp2.1/kaprekar.csproj.CoreCompileInputs.cache
+/Users/msmith/source/codeworks/kaprekar/obj/Debug/netcoreapp2.1/kaprekar.AssemblyInfoInputs.cache
+/Users/msmith/source/codeworks/kaprekar/obj/Debug/netcoreapp2.1/kaprekar.AssemblyInfo.cs
+/Users/msmith/source/codeworks/kaprekar/bin/Debug/netcoreapp2.1/kaprekar.deps.json
+/Users/msmith/source/codeworks/kaprekar/bin/Debug/netcoreapp2.1/kaprekar.runtimeconfig.json
+/Users/msmith/source/codeworks/kaprekar/bin/Debug/netcoreapp2.1/kaprekar.runtimeconfig.dev.json
+/Users/msmith/source/codeworks/kaprekar/bin/Debug/netcoreapp2.1/kaprekar.dll
+/Users/msmith/source/codeworks/kaprekar/bin/Debug/netcoreapp2.1/kaprekar.pdb
+/Users/msmith/source/codeworks/kaprekar/obj/Debug/netcoreapp2.1/kaprekar.dll
+/Users/msmith/source/codeworks/kaprekar/obj/Debug/netcoreapp2.1/kaprekar.pdb
